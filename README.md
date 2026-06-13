@@ -6,7 +6,7 @@
   <h2>Linguagens Conhecidas:</h2>
   <h3><li>C, JavaScript, Python, Portugol, GML.</li></h3>
   <h2>Tecnologias Conhecidas:</h2>
-  <h3><li>React, Vue, MongoDB, MySQL.</li></h3>
+  <h3><li>React, Vue, EJS, TalwindCSS, Express, Node, MongoDB, MySQL.</li></h3>
 </ul>
 
 
